@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mi Primera Aplicacion</string>
+    <string name="pago">Pago de Servicios</string>
+    <string name="lugares">Bancos autorizados cercanos a su domicilio</string>
+    <string name="contraseña">Contraseña</string>
+    <string name="usuario">Usuario</string>
+    <string name="ingresar">INGRESAR</string>
+    <string name="nombre">Nombre</string>
+    <string name="apellido">Apellido</string>
+    <string name="edad">Edad</string>
+    <string name="dni">DNI</string>
+    <string name="descripcion1">arbolnavidad</string>
+</resources>
